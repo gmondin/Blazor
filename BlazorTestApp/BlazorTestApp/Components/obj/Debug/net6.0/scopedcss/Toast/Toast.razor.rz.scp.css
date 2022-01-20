@@ -1,0 +1,91 @@
+.toast-container[b-00khdbmluh] {
+	display: flex;
+	flex-direction: column;
+	position: fixed;
+	z-index: 1;
+}
+
+.position-topleft[b-00khdbmluh],
+.position-topright[b-00khdbmluh],
+.position-topcenter[b-00khdbmluh] {
+	top: 0;
+}
+
+.position-centerleft[b-00khdbmluh],
+.position-centerright[b-00khdbmluh],
+.position-centercenter[b-00khdbmluh] {
+	top: 30%;
+}
+
+.position-bottomleft[b-00khdbmluh],
+.position-bottomright[b-00khdbmluh],
+.position-bottomcenter[b-00khdbmluh] {
+	bottom: 0;
+}
+
+@keyframes fadein-b-00khdbmluh {
+	from {
+		opacity: 0;
+	}
+
+	to {
+		opacity: 1;
+	}
+}
+
+@media (min-width: 576px) {
+
+	.position-topleft[b-00khdbmluh] {
+		top: 2rem;
+		left: 2rem;
+	}
+
+	.position-topright[b-00khdbmluh] {
+		top: 2rem;
+		right: 2rem;
+	}
+
+	.position-topcenter[b-00khdbmluh] {
+		top: 2rem;
+		left: 50%;
+		margin-left: -15rem;
+	}
+
+	.position-centerleft[b-00khdbmluh] {
+		top: 40%;
+		left: 2rem;
+	}
+
+	.position-centerright[b-00khdbmluh] {
+		top: 40%;
+		right: 2rem;
+	}
+
+	.position-centercenter[b-00khdbmluh] {
+		top: 40%;
+		left: 50%;
+		margin-left: -15rem;
+	}
+
+
+	.position-bottomleft[b-00khdbmluh] {
+		bottom: 2rem;
+		left: 2rem;
+	}
+
+	.position-bottomright[b-00khdbmluh] {
+		bottom: 2rem;
+		right: 2rem;
+	}
+
+	.position-bottomcenter[b-00khdbmluh] {
+		bottom: 2rem;
+		left: 50%;
+		margin-left: -15rem;
+	}
+
+	.dynamic-toast[b-00khdbmluh] {
+		width: 30rem;
+		border-radius: .25rem;
+	}
+}

@@ -1,0 +1,16 @@
+D:\Projects\Test\GitHub\BlazorTestApp\BlazorTestApp\Shared\obj\Debug\net6.0\BlazorTestApp.Shared.Resources.Resource.resources
+D:\Projects\Test\GitHub\BlazorTestApp\BlazorTestApp\Shared\obj\Debug\net6.0\BlazorTestApp.Shared.Resources.Resource.es.resources
+D:\Projects\Test\GitHub\BlazorTestApp\BlazorTestApp\Shared\obj\Debug\net6.0\BlazorTestApp.Shared.csproj.GenerateResource.cache
+D:\Projects\Test\GitHub\BlazorTestApp\BlazorTestApp\Shared\obj\Debug\net6.0\BlazorTestApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Test\GitHub\BlazorTestApp\BlazorTestApp\Shared\obj\Debug\net6.0\BlazorTestApp.Shared.AssemblyInfoInputs.cache
+D:\Projects\Test\GitHub\BlazorTestApp\BlazorTestApp\Shared\obj\Debug\net6.0\BlazorTestApp.Shared.AssemblyInfo.cs
+D:\Projects\Test\GitHub\BlazorTestApp\BlazorTestApp\Shared\obj\Debug\net6.0\BlazorTestApp.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\Test\GitHub\BlazorTestApp\BlazorTestApp\Shared\bin\Debug\net6.0\BlazorTestApp.Shared.deps.json
+D:\Projects\Test\GitHub\BlazorTestApp\BlazorTestApp\Shared\bin\Debug\net6.0\BlazorTestApp.Shared.dll
+D:\Projects\Test\GitHub\BlazorTestApp\BlazorTestApp\Shared\bin\Debug\net6.0\ref\BlazorTestApp.Shared.dll
+D:\Projects\Test\GitHub\BlazorTestApp\BlazorTestApp\Shared\bin\Debug\net6.0\BlazorTestApp.Shared.pdb
+D:\Projects\Test\GitHub\BlazorTestApp\BlazorTestApp\Shared\bin\Debug\net6.0\es\BlazorTestApp.Shared.resources.dll
+D:\Projects\Test\GitHub\BlazorTestApp\BlazorTestApp\Shared\obj\Debug\net6.0\es\BlazorTestApp.Shared.resources.dll
+D:\Projects\Test\GitHub\BlazorTestApp\BlazorTestApp\Shared\obj\Debug\net6.0\BlazorTestApp.Shared.dll
+D:\Projects\Test\GitHub\BlazorTestApp\BlazorTestApp\Shared\obj\Debug\net6.0\ref\BlazorTestApp.Shared.dll
+D:\Projects\Test\GitHub\BlazorTestApp\BlazorTestApp\Shared\obj\Debug\net6.0\BlazorTestApp.Shared.pdb

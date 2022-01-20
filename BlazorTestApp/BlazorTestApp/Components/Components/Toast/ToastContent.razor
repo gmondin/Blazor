@@ -1,0 +1,22 @@
+﻿<div class="dynamic-toast @ToastSettings.BaseClass">
+	@if (!string.IsNullOrWhiteSpace(ToastSettings.IconClass))
+	{
+		<div class="toast-icon">
+			<i class="bi bi-@ToastSettings.IconClass" aria-hidden="true"></i>
+		</div>
+	}
+	<div class="toast-body">
+		<div class="toast-header">
+			<h5>@ToastSettings.Heading</h5>
+			<small class="text-muted">@DateTime.Now.ToString("HH:mm")</small>
+		</div>
+		<div class="toast-body">
+			<p class="toast-message">@ToastSettings.Message</p>
+		</div>
+		<div class="toast-body-buttons">
+			<button type="button" class="btn btn-light body-buttons" @onclick=@Close>OK</button>
+		</div>
+	</div>
+</div>
+
+<audio autoplay><source src="_content/BlazorTestAppComponents/sounds/@ToastSettings.Sound"/></audio>

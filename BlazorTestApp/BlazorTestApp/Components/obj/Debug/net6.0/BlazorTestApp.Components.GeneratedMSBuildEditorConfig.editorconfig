@@ -1,0 +1,32 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazorTestApp.Components
+build_property.RootNamespace = BlazorTestApp.Components
+build_property.ProjectDir = D:\Projects\Test\GitHub\BlazorTestApp\BlazorTestApp\Components\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Projects\Test\GitHub\BlazorTestApp\BlazorTestApp\Components
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Projects/Test/GitHub/BlazorTestApp/BlazorTestApp/Components/Components/Confirm/ConfirmDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb25maXJtXENvbmZpcm1EaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Test/GitHub/BlazorTestApp/BlazorTestApp/Components/Components/Loading/Loading.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMb2FkaW5nXExvYWRpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-3qzlp51pqq
+
+[D:/Projects/Test/GitHub/BlazorTestApp/BlazorTestApp/Components/Components/Toast/Toast.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUb2FzdFxUb2FzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-fokm31q6ux
+
+[D:/Projects/Test/GitHub/BlazorTestApp/BlazorTestApp/Components/Components/Toast/ToastContent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUb2FzdFxUb2FzdENvbnRlbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-iuksieprp3

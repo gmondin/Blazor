@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AddRazorSupportForMvc>true</AddRazorSupportForMvc>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="C:\Users\gmondin\.nuget\packages\bootstrapblazor\6.2.6\contentFiles\any\net6.0\wwwroot\css\bootstrap.blazor.bundle.min.css" />
+    <Content Remove="C:\Users\gmondin\.nuget\packages\bootstrapblazor\6.2.6\contentFiles\any\net6.0\wwwroot\css\motronic.min.css" />
+    <Content Remove="C:\Users\gmondin\.nuget\packages\bootstrapblazor\6.2.6\contentFiles\any\net6.0\wwwroot\js\bootstrap.blazor.bundle.min.js" />
+    <Content Remove="C:\Users\gmondin\.nuget\packages\bootstrapblazor\6.2.6\contentFiles\any\net6.0\wwwroot\lib\summernote\font\summernote.eot" />
+    <Content Remove="C:\Users\gmondin\.nuget\packages\bootstrapblazor\6.2.6\contentFiles\any\net6.0\wwwroot\lib\summernote\font\summernote.ttf" />
+    <Content Remove="C:\Users\gmondin\.nuget\packages\bootstrapblazor\6.2.6\contentFiles\any\net6.0\wwwroot\lib\summernote\font\summernote.woff" />
+    <Content Remove="C:\Users\gmondin\.nuget\packages\bootstrapblazor\6.2.6\contentFiles\any\net6.0\wwwroot\lib\summernote\font\summernote.woff2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BootstrapBlazor" Version="6.2.6" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+
+
+</Project>
